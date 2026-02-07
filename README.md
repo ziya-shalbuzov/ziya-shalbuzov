@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ziya Şalbuzov
 
-<!--
-**ziya-shalbuzov/ziya-shalbuzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Blue Team Enthusiast | Junior SOC Analyst (Aspiring)
 
-Here are some ideas to get you started:
+Junior cybersecurity enthusiast focused on SOC operations, incident analysis, and defensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience gained through CTF competitions, PentesterLab labs, and practical cybersecurity training, covering network analysis, web reconnaissance, and system security. I enjoy analyzing suspicious activity, understanding attack techniques, and clearly documenting findings.
+
+Currently studying Computer Science while actively preparing for entry-level SOC Analyst roles, with a strong interest in Blue Team operations, security monitoring, and incident response.
+
+---
+
+## 🧰 Tools & Technologies
+
+Hands-on experience with security tools used in labs, CTFs, and training environments:
+
+- **Nmap** – network scanning, service detection, and basic NSE scripts  
+- **ffuf / Gobuster** – directory and parameter fuzzing  
+- **Burp Suite** – intercepting and analyzing HTTP requests  
+- **Metasploit** – basic exploitation in controlled lab environments  
+- **Splunk** – searching and analyzing logs for security events  
+- **Wazuh** – host-based monitoring and alert analysis  
+- **Kali Linux** – security testing environment and Linux command-line usage
