@@ -40,3 +40,13 @@ Hands-on experience with security tools used in labs, CTFs, and training environ
     <img src="images/mail-logo.png" width="40" alt="Email" />
   </a>
 </p>
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://ziyashalbuzov.tech/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
