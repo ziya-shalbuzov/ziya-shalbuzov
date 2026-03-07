@@ -30,15 +30,6 @@ Hands-on experience with security tools used in labs, CTFs, and training environ
   <a href="https://www.linkedin.com/in/ziya-shalbuzov/" target="_blank">
     <img src="images/linkedin-logo.gif" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ziya_shalbuzov/" target="_blank">
-    <img src="images/instagram-logo.gif" width="40" alt="Instagram" />
-  </a>
-  <a href="https://x.com/ziya_shalbuzov" target="_blank">
-    <img src="images/twitter-logo.gif" width="40" alt="X / Twitter" />
-  </a>
-  <a href="mailto:zshalbuzov@outlook.com">
-    <img src="images/mail-logo.png" width="40" alt="Email" />
-  </a>
 </p>
 
 ---
